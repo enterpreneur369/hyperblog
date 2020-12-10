@@ -1,8 +1,11 @@
 body 
 {
     color: #333;
-    font-family: "Courier";
-    text-align: left;
+    font-family: "Arial";
+    text-align: center;
+    font-size: 16px;    
+    padding: 0;
+    margin: 0;
 }
 #cabezera 
 {
@@ -27,6 +30,7 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;    
+    margin: 0 auto;
 }
 
 #container h1
